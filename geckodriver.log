@@ -1,0 +1,53 @@
+1535821550519	geckodriver	INFO	geckodriver 0.21.0
+1535821550558	geckodriver	INFO	Listening on 127.0.0.1:58391
+1535821553568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jorda\\AppData\\Local\\Temp\\rust_mozprofile.27ChYMtyAsNE"
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+1535821559398	Marionette	INFO	Listening on port 58399
+1535821559789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+[Child 4948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 494[Parent 8400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 4676, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535821615466	geckodriver	INFO	geckodriver 0.21.0
+1535821615495	geckodriver	INFO	Listening on 127.0.0.1:58437
+1535821618525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jorda\\AppData\\Local\\Temp\\rust_mozprofile.lWF1m6uIenuZ"
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+1535821623928	Marionette	INFO	Listening on port 58445
+1535821624084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+[Parent 9160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/s[Parent 9160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1535821700962	geckodriver	INFO	geckodriver 0.21.0
+1535821700993	geckodriver	INFO	Listening on 127.0.0.1:58488
+1535821704089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jorda\\AppData\\Local\\Temp\\rust_mozprofile.hC8FHJ56OgSp"
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\jorda\AppData\Local\openvr\openvrpaths.vrpath
+1535821709305	Marionette	INFO	Listening on port 58496
+1535821709679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+[Parent 8576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13252, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comm[Child 11288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11288, Chr[Parent 8576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
